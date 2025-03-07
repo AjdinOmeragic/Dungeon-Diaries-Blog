@@ -1,0 +1,16 @@
+body {
+  background-color: #f5e6cc;
+  color: #3d2b1f;
+}
+
+header {
+  background-color: #3d2b1f;
+  color: #f5e6cc;
+  padding: 15px;
+}
+
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 15px;
+}
